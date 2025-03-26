@@ -1,7 +1,3 @@
-Here's a stylish and professional `README.md` file for your web scraping project:
-
----
-
 # 🎯 **TalentEdge Course Scraper**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
@@ -139,7 +135,3 @@ pip install scrapy pandas openpyxl
 ## 👩‍💻 **Author**
 👋 Developed by **Nidhi Saroj**  
 🔗 [LinkedIn](https://www.linkedin.com/in/nidhi-saroj-705b362a6/) | [GitHub](https://github.com/Nidhiii2)
-
----
-
-✅ Let me know if you want any modifications or additions to the README! 🚀
