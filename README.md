@@ -51,7 +51,7 @@ The extracted data is saved in a structured Excel file for easy reference and an
 1. **Clone the Repository**
 ```bash
 git clone https://github.com/Nidhiii2/Web-Scraping-Project.git
-cd TalentEdge-Scraper
+cd Web-Scraping-Project
 ```
 
 2. **Create a Virtual Environment**
