@@ -50,7 +50,7 @@ The extracted data is saved in a structured Excel file for easy reference and an
 ## 🔧 **Installation**
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/TalentEdge-Scraper.git
+git clone https://github.com/Nidhiii2/TalentEdge-Scraper.git
 cd TalentEdge-Scraper
 ```
 
